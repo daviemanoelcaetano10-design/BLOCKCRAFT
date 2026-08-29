@@ -1,0 +1,6 @@
+{
+  "name": "BlockCraft 3D",
+  "description": "Jogo 3D de construção em primeira pessoa com exploração de mapa aberto, coleta de recursos, criação de itens e construção livre de estruturas complexas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
